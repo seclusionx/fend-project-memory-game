@@ -15,9 +15,8 @@ _Click_ any **card** to **start playing!**
 
 **Resetting the Game**
 
-* (On the **Player Stats screen**) _Click_ **Play Again?**
-..1. (Or) _Click_ the **X** in the **upper right corner**
-..2. _Click_ the **Reload Button**
+* (On the **Player Stats screen**) _Click_ the **Play Again? button**
+(Or) _Click_ the **X** in the **upper right corner** then _click_ the **Reload Button**
 
 ## Contributing
 
